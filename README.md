@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alangithub5
 - 👀 I’m interested in improving my code and learning more
-- 🌱 I’m currently learning js, mysql, node
+- 🌱 I’m currently learning C, js, mysql, node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
